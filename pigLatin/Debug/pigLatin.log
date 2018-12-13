@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  main.cpp
+c:\map\dodatno\piggylatin\piglatin\piglatin\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\map\dodatno\piggylatin\piglatin\piglatin\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\map\dodatno\piggylatin\piglatin\piglatin\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  pigLatin.vcxproj -> C:\Map\dodatno\piggyLatin\pigLatin\Debug\pigLatin.exe
